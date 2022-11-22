@@ -17,7 +17,7 @@ Update https://github.com/SinglaSandeep/eventhubs/blob/main/azuread/azure-eventh
 EVENTHUB_NAMESPACE <br />
 TOPIC_NAME  <br />
 
-Update https://github.com/SinglaSandeep/eventhubs/blob/main/azuread/azure-eventhub-producer-azuread/src/main/java/com/azure/eventhub/authentication/CustomAuthenticateCallbackHandler.javaas per your project <br />
+Update https://github.com/SinglaSandeep/eventhubs/blob/main/azuread/azure-eventhub-producer-azuread/src/main/java/com/azure/eventhub/authentication/CustomAuthenticateCallbackHandler.java as per your project <br />
 TENANT_ID <br />
 SERVICE_PRINCIPAL_APPID  <br />
 SERVICE_PRINCIPAL_SECRET <br />
